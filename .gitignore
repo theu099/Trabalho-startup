@@ -1,0 +1,8 @@
+# Arquivos criados automaticamente pelo Windows e pelo Mac
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Arquivos temporários
+*.tmp
+~$*
